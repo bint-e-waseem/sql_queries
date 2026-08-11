@@ -95,8 +95,7 @@ Create a dashboard using Python/Streamlit
 Add triggers for automatic status updates
 
 📧 Contact
-Your Name - your.email@example.com
-GitHub: @yourusername
+yashfawasem2006@gmail.com
 
 ⭐ Show Your Support
 If you found this helpful, please give it a star! ⭐
